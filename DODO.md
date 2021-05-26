@@ -43,7 +43,7 @@ Pools give liquidity providers the flexibility to create and manage their own on
 
 **Total:** 1,000,000,000 DODO
 
-<img src="../images/001Y2vtxly1go96lpl0l1j618r0nidz702.jpg" width="800px" style="margin: 0 auto;" />
+<img src="images/001Y2vtxly1go96lpl0l1j618r0nidz702.jpg" width="800px" style="margin: 0 auto;" />
 
 
 
