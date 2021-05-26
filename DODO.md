@@ -9,10 +9,6 @@ DODO is a decentralized exchange platform powered by the Proactive Market Maker 
 
 
 
----
-
-
-
 ## 2.Key Highlights
 
 **SmartTrade trading and aggregation**
@@ -26,10 +22,6 @@ An equal opportunity way to distribute tokens and kick-off liquidity markets. Cr
 **Pools**
 
 Pools give liquidity providers the flexibility to create and manage their own on-chain market making strategies in a fully permissionless, non-custodial manner. Mining: DODO platform users can earn DODO token rewards by engaging in liquidity mining, trade mining, and Combiner Harvest mining, which are geared towards liquidity providers, traders, and pool creators respectively.
-
-
-
----
 
 
 
@@ -47,19 +39,11 @@ Pools give liquidity providers the flexibility to create and manage their own on
 
 
 
----
-
-
-
 ## 4.Allocation of genesis tokens
 
 **Total:** 1,000,000,000 DODO
 
 <img src="https://gblobscdn.gitbook.com/assets%2F-M_yRxKSy7ATWeQvQh09%2F-Ma2R7ZmYF8MYWVeJmQr%2F-Ma2Y_X-9hcEPYV1CFGZ%2Fimage.png" width="800px" style="margin: 0 auto;" />
-
-
-
----
 
 
 
@@ -71,19 +55,11 @@ Pools give liquidity providers the flexibility to create and manage their own on
 
 
 
----
-
-
-
 ## 6.Roadmap
 
 
 
 <img src="https://gblobscdn.gitbook.com/assets%2F-M_yRxKSy7ATWeQvQh09%2F-Ma2R7ZmYF8MYWVeJmQr%2F-Ma2YDb0OUlAfjzyjKFm%2Fimage.png" width="800px" style="margin: 0 auto;" />
-
-
-
----
 
 
 
@@ -106,10 +82,6 @@ Diane Dai is a well-known thought leader and pioneer in the Chinese DeFi communi
 <img src="https://gblobscdn.gitbook.com/assets%2F-M_yRxKSy7ATWeQvQh09%2F-Ma2ad9fE0LB5hDqiKhY%2F-Ma2gwsWcv4zGO60DyWC%2Fimage.png" width="350px" style="margin: 0 auto;" />
 
 Qi is an experienced blockchain entrepreneur and founded DOS Network, a layer 2 decentralized oracle service project. He previously worked for more than five years in the San Francisco Bay Area, serving as tech lead at enterprise giants Oracle and Pure Storage. Qi has a master’s degree in Computer Engineering from Carnegie Mellon University.
-
-
-
----
 
 
 
