@@ -42,7 +42,7 @@ Pools give liquidity providers the flexibility to create and manage their own on
 ## 4.Allocation of genesis tokens
 
 **Total:** 1,000,000,000 DODO
-[total](images/001Y2vtxly1go96lpl0l1j618r0nidz702.jpg){:height="36px" width="36px"}
+
 <img src="https://raw.githubusercontent.com/nerverwind/website/gh-pages/images/001Y2vtxly1go96lpl0l1j618r0nidz702.jpg" width="800px" style="margin: 0 auto;" />
 
 
